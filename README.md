@@ -7,7 +7,7 @@ cars, run jobs, outdrive the law across a procedurally generated city with a
 full day/night cycle. One vendored dependency, no build step, no asset files:
 open `index.html` and play.
 
-**▶ Play it now: [appleweiping.github.io/overdrive-city](https://appleweiping.github.io/overdrive-city/)**
+**▶ Play it now: 
 
 *English · [中文说明](README.zh-CN.md)*
 
