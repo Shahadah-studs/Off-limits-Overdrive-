@@ -202,7 +202,7 @@ ice-rink drifting; raise `COP_CAR_MAX` if you think you're fast.
 
 ## License & disclaimer
 
-[MIT](LICENSE). OVERDRIVE CITY is an **original, non-commercial fan homage to
+[MIT](LICENSE). Off limits is an **original, non-commercial fan homage to
 the open-world driving genre**. It is not affiliated with, endorsed by, or
 connected to Rockstar Games, Take-Two Interactive, or any other publisher.
 No assets, names, characters, maps, music, or code from any commercial game
