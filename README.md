@@ -7,7 +7,7 @@ cars, run jobs, outdrive the law across a procedurally generated city with a
 full day/night cycle. One vendored dependency, no build step, no asset files:
 open `index.html` and play.
 
-**▶ Play it now: https://shahadah-studs.github.io/Off-limits-Overdrive-/ **
+** ▶ Play it now: https://shahadah-studs.github.io/Off-limits-Overdrive-/ **
 
 *English · [Arabic](README.zh-CN.md)*
 
