@@ -9,7 +9,7 @@ open `index.html` and play.
 
 **▶ Play it now: 
 
-*English · [中文说明](README.zh-CN.md)*
+*English · [Arabic](README.zh-CN.md)*
 
 | | |
 |---|---|
