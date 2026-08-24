@@ -20,7 +20,7 @@ open `index.html` and play.
 
 ## What is this?
 
-A love letter to the open-world crime genre, built from scratch as a study in
+A love letter to the open-world realistic genre, built from scratch as a study in
 how far a browser can go with almost nothing:
 
 - **One dependency, vendored.** [Three.js](https://threejs.org) r160 is
@@ -51,7 +51,7 @@ getaways and bounties on the other. Crime pays — but crime is *loud*:
 - Get cornered standing still and you're **BUSTED** (−20% cash). Get killed
   and you're **WASTED** (−30%). Survive at 3★+ and the city pays you
   $100 every 30 seconds for the spectacle.
-- Dirty money from crime missions stays **pending until you lose the heat** —
+  - money from the missions stays **pending until you lose the heat** —
   escape is part of the job.
 
 Your bankroll is the score. Best run is remembered locally.
@@ -151,7 +151,7 @@ index.html            entry — import map, HUD DOM, title screen
 lib/three.module.js   the one vendored dependency (Three.js r160)
 src/
   config.js           every tuning constant in the game
-  rng.js              seeded RNG (mulberry32)
+  rng.js              seeded RNG 
   city.js             tile map, districts, buildings, lanes, LOS, graph
   citymesh.js         instanced city geometry
   daynight.js         sun, fog, keyframed sky
@@ -172,12 +172,6 @@ src/
 
 It's static files — any file server works:
 
-```bash
-git clone https://github.com/appleweiping/overdrive-city.git
-cd overdrive-city
-python -m http.server 8000        # or: npx serve
-# open http://localhost:8000
-```
 
 (ES modules need `http://` — opening `index.html` via `file://` won't work.)
 
